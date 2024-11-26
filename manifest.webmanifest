@@ -1,6 +1,6 @@
 {
-    "name": "Los Salvajes - Core Assault",
-    "short_name": "Core Assault",
+    "name": "proyecto-los-salvajes",
+    "short_name": "proyecto-los-salvajes",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#1F1F20",
